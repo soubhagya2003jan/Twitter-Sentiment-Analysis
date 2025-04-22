@@ -34,7 +34,7 @@ This project analyzes public sentiment on Twitter regarding IPL2025 by collectin
 
 2. **Environment Setup**:
    ```bash
-   # Clone the repository (if applicable)
+   # Clone the repository 
    # Create a virtual environment (recommended)
    python -m venv venv
    venv\Scripts\activate
